@@ -1,2 +1,3 @@
 # MyFirstGame
-Not as right now
+In process of completing it
+
